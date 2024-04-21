@@ -39,7 +39,6 @@ const Footer = () => {
             <img src="Twitter.svg" alt="twitter" />
             <img src="Linkedin.svg" alt="Linkdin" />
             <img src="Facebook.svg" alt="facebook" />
-            <img src="Youtube.svg" alt="youtube" />
           </div>
         </div>
        
